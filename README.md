@@ -1,6 +1,9 @@
-# Milo's Adventure - Part 5
+# MILO NEED YOUR HELP - Chapter 5: Encoded Findings
 
 ## Language: Base64
+
+## Introduction
+SGVsbG8hIE5hbWUgTWlsby4gSSBqdXN0IHdva2UgdXAgYW5kIGZlZWwgc29tZXRoaW5nIHN0cmFuZ2UgaW4gdGhpcyBzeXN0ZW0uIEkgbmVlZCB5b3VyIGhlbHAgdG8gcmVhZCBteSBhZHZlbnR1cmUuIFRoZXJlIGFyZSAxMCBjaGFwdGVycyB5b3UgbmVlZCB0byByZWFkLiBTdGFydCBoZXJlLCB0aGVuIGZvbGxvdyB0aGUgTmV4dCBQYXJ0IGxpbmsgaW4gZWNoIGNoYXB0ZXIuIFRoYW5rIHlvdSBmb3IgaGVscGluZyBtZSE=
 
 ## Story
 This part of Milo's adventure is written in Base64.

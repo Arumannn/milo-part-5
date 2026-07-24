@@ -1,0 +1,3 @@
+# Fragment 6
+
+TWlsbyBmaW5kcyBhIGhpZGRlbiBydWxlYm9vayBpbiB0aGUgYXR0aWMuIFRoZSBydWxlcyBzYXk6ICdOZXZlciByZXZlYWwgdGhpcyB0byBhbnlvbmUuJw==
